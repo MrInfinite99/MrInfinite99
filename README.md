@@ -38,12 +38,7 @@ Tree-walk interpreter with recursive descent parser, supporting closures and OOP
 
 ---
 
-## 📊 GitHub Stats
-
-![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrInfinite99&show_icons=true&theme=radical&hide_border=true)
-
----
-
+ 
 ## 📫 Let's Connect
 
 - 🌐 Portfolio: [mrinfinite99.github.io](https://mrinfinite99.github.io)
